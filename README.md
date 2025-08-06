@@ -1,6 +1,9 @@
 ### hey there :sunglasses:
 welcome to my $github_home, here you can find some fun facts about me. enjoy!
 
+#### .: in general
+* :heart: in love with open-source since i was 17
+
 #### .: i'm kinda a bookworm...
 some great books i read and want to give 'em a clout:
 * :book: [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/133-4207172-7462354) _#progress #productivity #competitors #evolution #promotion #hiring #damagecontrol_
