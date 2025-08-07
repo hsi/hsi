@@ -3,6 +3,8 @@ welcome to my $github_home, here you can find some fun facts about me. enjoy!
 
 #### .: in general
 * :heart: in love with open-source since i was 17
+* :mortar_board: msc in computer engineering (intelligent systems spec.) @tub
+* :motorcycle: serpentine addict & vr46 fan
 
 #### .: i'm kinda a bookworm...
 some great books i read and want to give 'em a clout:
